@@ -43,6 +43,19 @@ Container image base: `debian`
 - [x] tcpdump
 - [x] nmap
 
+### Optionals
+
+- krew
+- krew plugins
+	- access-matrix
+	- gadget
+	- lineage
+	- rakkess
+	- slice
+	- sniff
+	- tree
+	- 
+
 ## Links
 
 - [stress](https://www.geeksforgeeks.org/linux-stress-command-with-examples/)
