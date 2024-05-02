@@ -45,6 +45,9 @@ Container image base: `debian`
 
 ### Optionals
 
+- git
+- argocd cli
+- argo cli
 - krew
 - krew plugins
 	- access-matrix
@@ -54,7 +57,7 @@ Container image base: `debian`
 	- slice
 	- sniff
 	- tree
-	- 
+- strimzi-kafka-cli
 
 ## Links
 
